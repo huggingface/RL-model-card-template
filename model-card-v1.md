@@ -41,6 +41,14 @@ Environment Lib version: `Gym==0.19`
     <td>(210, 160, 3)</td>
   </tr>
   <tr>
+    <th>Observation Low</th>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>Observation High</th>
+    <td>255</td>
+  </tr>
+  <tr>
     <th>Action Space</th>
     <td>Discrete(6)</td>
   </tr>
